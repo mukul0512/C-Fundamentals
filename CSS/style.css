@@ -1,0 +1,11 @@
+.container{
+    display: flex;
+    background-color: black;
+    border: 2px solid red;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+    margin: 10px;
+}

@@ -1,0 +1,5 @@
+
+Student name : Karnwal
+Student age : 26
+Student cgpa : 9.90
+ 
